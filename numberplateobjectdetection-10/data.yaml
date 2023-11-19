@@ -1,0 +1,12 @@
+names:
+- plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: numberplateobjectdetection
+  url: https://universe.roboflow.com/number-plate-object-detection/numberplateobjectdetection/dataset/10
+  version: 10
+  workspace: number-plate-object-detection
+test: ../test/images
+train: numberplateobjectdetection-10/train/images
+val: numberplateobjectdetection-10/valid/images
