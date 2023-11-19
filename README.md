@@ -1,2 +1,2 @@
-# Number-Plate-Detection-and-Recongnition-System
+# Number-Plate-Detection-and-Recongnition
 Dataset: https://universe.roboflow.com/number-plate-object-detection/numberplateobjectdetection
