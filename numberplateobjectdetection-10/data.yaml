@@ -7,6 +7,6 @@ roboflow:
   url: https://universe.roboflow.com/number-plate-object-detection/numberplateobjectdetection/dataset/10
   version: 10
   workspace: number-plate-object-detection
-test: ../test/images
-train: numberplateobjectdetection-10/train/images
-val: numberplateobjectdetection-10/valid/images
+test: /content/Number-Plate-Detection-and-Recognition/numberplateobjectdetection-10/test/images
+train: /content/Number-Plate-Detection-and-Recognition/numberplateobjectdetection-10/train/images
+val: /content/Number-Plate-Detection-and-Recognition/numberplateobjectdetection-10/valid/images
